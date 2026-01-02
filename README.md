@@ -1,2 +1,2 @@
-# tya_repository
-Ini adalah repositori untuk menyimpan
+# repository
+Ini adalah repositori penyimpanan file txt
